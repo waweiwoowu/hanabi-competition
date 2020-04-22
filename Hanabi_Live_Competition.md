@@ -5,8 +5,8 @@
 Our goal is to have weekly competitions to have teams compete against one another playing Hanabi with identical decks.  These are special challenges that will bring a competitive atmosphere where anyone can join to show off their skills.  
 
 ### Standard Scoring
-* Game points = Total Max Score + Bonus Points
-* Bonus Points = (# of cards left in the deck + # of clues left) * 0.1
+* Game points = `Total Max Score + Bonus Points`
+* Bonus Points = `(# of cards left in the deck + # of clues left) * 0.1`
   * Example: You score 24 points with 3 cards remaining in deck and have 2 clues.
     * Total Max Score = 24
     * Bonus Points = 3 + 2 = 5 * 0.1 = 0.5
