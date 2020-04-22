@@ -52,5 +52,6 @@ Top teams for week of ...
 1. The platform we will use is on <a href="https://hanabi.live" rel="nofollow">Hanabi Live</a>
 2. <a href="https://discord.gg/FADvkJp" rel="nofollow">Hanabi Discord server</a>
 3. <a href="https://github.com/Zamiell/hanabi-conventions" rel="nofollow">Hanabi Conventions for The Hyphen-ated Group</a>
+4. <a href="https://github.com/Zamiell/hanabi-conventions/blob/master/misc/BGA.md" rel="nofollow">Welcoming Board Game Arena Players on Hanabi Live</a>
 
 <br/>
