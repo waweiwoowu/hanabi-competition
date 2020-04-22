@@ -31,5 +31,6 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 5.	No quitting or restarting.  We can verify by looking at your profile
 6.	Do not post your scores before the contest ends.
 7.	We will give 24 hours to complete the challenge on day of event, so everyone around the whole world are encouraged to participate. 
+8. The platform we will use is on https://hanabi.live
 
 <br/>
