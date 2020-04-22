@@ -2,7 +2,7 @@
 * Hosted by [IAMJEFF](https://github.com/iamwhoiamhahaha) and [Dr_Kakashi](https://github.com/Dr-Kakashi)
 
 ### Mission
-Our goal is to have weekly competitions to have teams compete against one another playing Hanabi with identical decks.  These are special challenges that will bring a competitive atmosphere where anyone can join to show off their skills.  
+Our goal is to have weekly competitions to have teams compete against one another playing Hanabi with identical decks.  These are special challenges that will bring a competitive atmosphere where anyone can join to show off their skills.  Don't be discouraged as we welcome players of all levels to participate.
 
 ### Standard Scoring
 * Game points = `Total Max Score + Bonus Points`
@@ -31,6 +31,10 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 5.	No quitting or restarting.  We can verify by looking at your profile
 6.	Do not post your scores before the contest ends.
 7.	We will give 24 hours to complete the challenge on day of event, so everyone around the whole world are encouraged to participate. 
-8. The platform we will use is on <a href="https://hanabi.live" rel="nofollow">Hanabi Live</a>
+
+### References
+1. The platform we will use is on <a href="https://hanabi.live" rel="nofollow">Hanabi Live</a>
+2. <a href="https://discord.gg/FADvkJp" rel="nofollow">Hanabi Discord server</a>
+3. <a href="https://github.com/Zamiell/hanabi-conventions" rel="nofollow">Hanabi Conventions for The Hyphen-ated Group</a>
 
 <br/>
