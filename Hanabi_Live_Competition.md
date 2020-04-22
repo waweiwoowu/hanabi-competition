@@ -7,23 +7,21 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 ### Standard Scoring
 * Game points = Total Max Score + Bonus Points
 * Bonus Points = (# of cards left in the deck + # of clues left) * 0.1
-  * Example:
-You score 24 points with 3 cards remaining in deck and have 2 clues.
-Total Max Score = 24
-Bonus Points = 3 + 2 = 5 * 0.1 = 0.5
-Game Points = 24 + 0.5 = 24.5
+  * Example: You score 24 points with 3 cards remaining in deck and have 2 clues.
+    * Total Max Score = 24
+    * Bonus Points = 3 + 2 = 5 * 0.1 = 0.5
+    * Game Points = 24 + 0.5 = 24.5
 * A bombed deck (3 strikes) will only score the points they’ve received up to that point
-  * Example
-You score 10 points, but received a 3rd strike to end the game.  Game Points will be 10 and no bonus points will be awarded.  
-Thus, you are more inclined to complete a game as you will receive bonus points for doing so. 
+  * Example: You score 10 points, but received a 3rd strike to end the game.
+    * Game Points will be 10 and no bonus points will be awarded.  
+    * Thus, you are more inclined to complete a game as you will receive bonus points for doing so. 
 * Special Rules:  Depending on the event we may specify specials rules that will be stated in the event’s description
 
 ### Victory Points
 * The number of victory points a team receives will be the average of their best 3 out of 4 games.
-  * Example:
-You played 4 games and received scores of 20, 25, 18, 14
-Total Victory Points = 20 + 25 + 18 = 21
-This is setup such that a really bad game doesn’t destroy the team’s success/chance.  It really gives you 1 warmup game essentially.
+  * Example: You played 4 games and received scores of 20, 25, 18, 14
+    * Total Victory Points = 20 + 25 + 18 = 21
+* This is setup such that a really bad game doesn’t destroy the team’s success/chance.  It really gives you 1 warmup game essentially.
 
 ### Standard Rules
 1.	All players welcomed.
