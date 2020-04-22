@@ -34,7 +34,7 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 
 4.	No looking at another team’s scores before you play.
 
-(Idea: Publish scores publicly so it drives the competition.  Players will repeatedly set the bar higher and higher.
+(Idea: Publish scores publicly so it drives the competition.  Players will repeatedly set the bar higher and higher.)
 
 5.	No quitting or restarting.  We can verify by looking at your profile
 6.	Do not post your scores before the contest ends.
