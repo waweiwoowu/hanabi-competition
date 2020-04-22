@@ -33,6 +33,9 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 (Idea: Have no seeds and just have players play/grind their top 3 best scores to submit)
 
 4.	No looking at another team’s scores before you play.
+
+(Idea: Publish scores publicly so it drives the competition.  Players will repeatedly set the bar higher and higher.
+
 5.	No quitting or restarting.  We can verify by looking at your profile
 6.	Do not post your scores before the contest ends.
 7.	We will give 24 hours to complete the challenge on day of event, so everyone around the whole world are encouraged to participate.  
