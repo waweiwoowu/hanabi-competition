@@ -1,5 +1,5 @@
 # Welcome Hanabi Live Competitors!
-* Hosted by IAMJEFF and Dr_Kakashi
+* Hosted by [IAMJEFF](https://github.com/iamwhoiamhahaha) and [Dr_Kakashi](https://github.com/Dr-Kakashi)
 
 ### Mission
 Our goal is to have weekly competitions to have teams compete against one another playing Hanabi with identical decks.  These are special challenges that will bring a competitive atmosphere where anyone can join to show off their skills.  
