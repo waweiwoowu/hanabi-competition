@@ -27,6 +27,7 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 1.	All players welcomed.
 2.	No table talking once a game has started, until it is finished.
 3.	No seeing decks before the contest. We will present seeds on day of competition.
+(Idea: Have no seeds and just have players play/grind their top 3 best scores to submit)
 4.	No looking at another team’s scores before you play.
 5.	No quitting or restarting.  We can verify by looking at your profile
 6.	Do not post your scores before the contest ends.
