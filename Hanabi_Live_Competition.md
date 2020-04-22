@@ -17,6 +17,8 @@ Our goal is to have weekly competitions to have teams compete against one anothe
     * Thus, you are more inclined to complete a game as you will receive bonus points for doing so. 
 * Special Rules:  Depending on the event we may specify specials rules that will be stated in the event’s description
 
+(Idea: Have the score just be the score given.  For Tie Breakers: # of turns, # of cards left in the deck, # of clues left).  For Discussion)
+
 ### Victory Points
 * The number of victory points a team receives will be the average of their best 3 out of 4 games.
   * Example: You played 4 games and received scores of 20, 25, 18, 14
