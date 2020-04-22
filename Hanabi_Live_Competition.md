@@ -42,6 +42,9 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 ### Prize Ideas
 * Winning team can pick the variant for the next week
 
+### Leaderboard
+Top teams for week of ...
+
 ### References
 1. The platform we will use is on <a href="https://hanabi.live" rel="nofollow">Hanabi Live</a>
 2. <a href="https://discord.gg/FADvkJp" rel="nofollow">Hanabi Discord server</a>
