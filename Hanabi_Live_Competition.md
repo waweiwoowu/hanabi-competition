@@ -6,11 +6,12 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 
 ### Standard Scoring
 * Game points = `Total Max Score + Bonus Points`
-* Bonus Points = `(# of cards left in the deck + # of clues left) * 0.1`
-  * Example: You score 24 points with 3 cards remaining in deck and have 2 clues.
-    * Total Max Score = 24
-    * Bonus Points = 3 + 2 = 5 * 0.1 = 0.5
-    * Game Points = 24 + 0.5 = 24.5
+* Bonus Points = `(# of cards left in the deck + # of clues left + # of turns left) * 0.1`
+* `# of turns left = # of players` if `# of cards left in the deck > 1`
+  * Example: In a 4-player game, you score 25 points with 3 cards remaining in deck and have 2 clues.
+    * Total Max Score = 25
+    * Bonus Points = (3 + 2 + 4) * 0.1 = 9 * 0.1 = 0.9
+    * Game Points = 25 + 0.5 = 25.9
 * A bombed deck (3 strikes) will only score the points they’ve received up to that point
   * Example: You score 10 points, but received a 3rd strike to end the game.
     * Game Points will be 10 and no bonus points will be awarded.  
