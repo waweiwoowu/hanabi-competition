@@ -8,9 +8,9 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 * Game points = `Total Max Score + Bonus Points`
 * Bonus Points = `(# of cards left in the deck + # of clues left + # of turns left) * 0.1`
 * `# of turns left = # of players` if `# of cards left in the deck > 1`
-  * Example: In a 4-player game, you score 25 points with 3 cards remaining in deck and have 2 clues
-  # of turns left = # of players if # of cards left in the deck > 1
+  * Example: In a 4-player game, you score 25 points with 3 cards remaining in deck, have 2 clue, and the last 5 played started the end game.  
     * Total Max Score = 25
+    * # of turns left = # of players if # of cards left in the deck > 1
     * Bonus Points = (3 + 2 + 4) * 0.1 = 9 * 0.1 = 0.9
     * Game Points = 25 + 0.5 = 25.9
 * A bombed deck (3 strikes) will only score the points they’ve received up to that point
