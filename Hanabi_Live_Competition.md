@@ -25,7 +25,7 @@ Our goal is to have weekly competitions to have teams compete against one anothe
 (Idea: Have the score just be the score given.  For Tie Breakers: # of turns, # of cards left in the deck, # of clues left).  For Discussion)
 
 ### Victory Points
-* The number of victory points a team receives will be the average of their best 3 out of 4 games.
+* The number of victory points a team receives will be the average of their best 3 games.
   * Example: You played 4 games and received scores of 20, 25, 18, 14
     * Total Victory Points = (20 + 25 + 18) / 3 = 21
 * This is setup such that a really bad game doesn’t destroy the team’s success/chance.  It really gives you 1 warmup game essentially.
