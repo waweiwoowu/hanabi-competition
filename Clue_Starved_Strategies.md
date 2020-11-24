@@ -4,8 +4,8 @@
 
 ### General Strategies
 
-* Do NOT give *1-for-1 Play Clues. (See more strategies below)
-* Do NOT give *1-for-1 Save Clues. (See more strategies below)
+* Do NOT give *1-for-1 Play Clues*. (See more strategies below)
+* Do NOT give *1-for-1 Save Clues*. (See more strategies below)
 * Do NOT *Chop Move* two-away 3s or 4s.
 * Do NOT *Chop Move* one-away 3s or 4s unless your teammate has at least two playable cards or at least two trash followed behind.
 * Do NOT *Fake Save* non-critical 3s or 4s.
@@ -50,32 +50,39 @@
   * Option 2: Perform a *Chop Overflow Finesse* and tell your teammate which card to play.
   * Option 3: Kill it.
 
-### About 1-for-1 Clues
+### 1-for-1 Clues Strategies
 
 #### 1-for-1 Play Clues
-* You are not allowed to give *1-for-1 Play Clues* if the future required efficiency is greater than *1.00*, including the Self Color Bluffs.
-* In these situation, you are allowed to give *1-for-1 Play Clues*:
+* You are not allowed to give *1-for-1 Play Clues* if the future required efficiency is greater than **1.00**, including the Self Color Bluffs.
+* However, in these situation you are allowed to give *1-for-1 Play Clues*:
   * If the card is on *Chop*
   * If the card is on *Finessed Chop*
   * If the pace is equal or smaller than **1**
 
 #### 1-for-1 Save Clues
-* You are not allow to give *1-for-1 Save Clues* if the future required efficiency is greater than **1.25** OR greater than **1.00** AND the card is one-away from locked. In this situation, use the *Skipped Discard Chop Move*.
+* You are not allow to give *1-for-1 Save Clues* if the future required efficiency is greater than **1.25** OR greater than **1.00** AND the card is one-away from locked.
+* In this situation, use the *Skipped Discard Chop Move*, for example.
 
 #### 1-for-1 Play Clues Chop Move
 * If only one card which is not on *Chop* is touched by a direct *Play Clue*, while the future required efficiency is greater than **1.00**. It is not only a *Play Clue* on that card but also a *(Single) Chop Move*.
 * Note that if a clue touches a brand-new card and another card which has been chop moved, it is NOT a *1-for-1 Play Clue Chop Move*, since the chop moved cards are treated as untouched cards.
 * Note that it is illegal to do a *1-for-1 Self Color Bluff* if your teammate’s *Chop* is not on their *Finessed Position*. If someone does that, it is a signal as a *1-for-1 Play Clue Chop Move*.
-* Exception: If a *1-for-1 Play Clue* is given touching a critical 1, 2 or 3 which is one-away-from-chop, it doesn’t *Chop Move*.
-(Reason: It is because the team might lose it if they do a *Skipped Discard Chop Move*.)
+* Exception: It is **legal** to give a *1-for-1 Play Clue* on a critical 1, 2 or 3 which is one-away-from-chop, and it doesn’t *Chop Move*.
+(Reason: It is because your teammate might do a *Skipped Discard Chop Move*.)
 
 ### More Conventions
 
 #### Oops Chop Move
-* If a player discards a critical card from Chop and it is not an emergency situation, it is a signal as an *Oops Chop Move* on the card which moves to *Chop*.
+* If a player discards a critical card from *Chop* and it is not an emergency situation, it is a signal as an *Oops Chop Move* on the card which moves to the *Chop*.
 
 #### Unnecessary Trash Push
-* *Trash Pushes* are always unnecessary, which means they should blind-play the card from their *Finessed Position* after blind-playing the pushed card. You can only perform this move if the `future required efficiency is greater than 1.00`.
+* *Trash Pushes* are always unnecessary, which means they should blind-play the card from their *Finessed Position* after blind-playing the pushed card.
+* Note that:
+  * If the clue giver has **2** or more loaded actions and pace is greater than **1**, then the trash push is unnecessary
+  * If required efficiency is greater than **1.00** and the clue would normally cause a 1-for-1 chop move, then the trash push is unnecessary
+  * If the clue receiver knows/finds out that the card could've been clued directly, then the trash push is unecessary
+  * If both the clue receiver and the clue giver have at least **1** loaded action, then the trash push is unnecessary
+* Exception: if it is the mid-game and required efficiency is not greater than **1.00** and the clue receiver has no finesse position after the trash push then it is sufficiently valuable to give 1 known trash and it does not mean anything extra
 
 #### Unnecessary Trash Pull
 * Similar to *Unnecessary Trash Push*.
