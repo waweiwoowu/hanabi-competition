@@ -1,24 +1,24 @@
 # Clue Starved 2p Strategies
 
-* Link: https://hanabi-competitions.com/competitions/2020-11-23%202p%20Clue%20Starved%20(6%20Suits)
+* Competition Link: https://hanabi-competitions.com/competitions/2020-11-23%202p%20Clue%20Starved%20(6%20Suits)
 
 ### General Strategies
-* Do NOT give *1-for-1 Save Clues* if the `future required efficiency is greater than 1.25 OR greater than 1.00 AND the card is one-away from locked`. In this situation, use the *Skipped Discard Chop Move*.
-* Do NOT give *1-for-1 Play Clues* (on a card which is not on Chop) if the `future required efficiency is greater than 1.00`, including the Self Color Bluffs.
-* If the `pace is equal or smaller than 1`, you are allowed to give a *1-for-1 Play Clue* even if the future required efficiency is greater than 1.00.
-* Do NOT *Chop Move* a two-away 3 or 4.
-* Do NOT *Chop Move* a one-away 3 or 4 unless your teammate has at least two playable cards or at least two trash followed behind.
-* Do NOT do *Fake Saves* on non-critical 3 or 4.
-* Do NOT lock your teammate’s hand. (See more strategies below)
+
+* Do NOT give *1-for-1 Play Clues. (See more strategies below)
+* Do NOT give *1-for-1 Save Clues. (See more strategies below)
+* Do NOT *Chop Move* two-away 3s or 4s.
+* Do NOT *Chop Move* one-away 3s or 4s unless your teammate has at least two playable cards or at least two trash followed behind.
+* Do NOT *Fake Save* non-critical 3s or 4s.
+* Do NOT *Lock* your teammate’s hand. (See more strategies below)
 * It is illegal to do a *Self Color Bluff* by touching a brand-new card, including a *Chop Move* card. Unless, it is globally known not to be playable.
-* You can do a *Self Color Bluff* if your teammate’s Chop is on their *Finessed Position* (*Finessed Chop*), no matter how low the required efficiency is.
-* *Tempo Clue Chop Moves* is always turned on.
-* *Double Tempo Clue* is turned off, which means it is also a *Tempo Clue Chop Move*.
-* *Occupied Play Clue* and *Loaded Play Clue* are turned off.
-* *Overloaded Play Clue* and *Double Loaded Play Clue* are turned on.
-* *Double Ignition* is turned on. (Re-touching a trash, for example)
+* *Tempo Clue Chop Movess* are always turned on.
+* *Double Tempo Clues* are turned off, which means it is also a *Tempo Clue Chop Move*.
+* *Occupied Play Clues* and *Loaded Play Clues* are turned off.
+* *Overloaded Play Clues* and *Double Loaded Play Clues* are turned on.
+* *Double Ignitions* are turned on. (Re-touching a trash, for example)
 
 ### Lock Hand Strategies
+
 * Situation: If your teammate has four clued cards and they draw a useful card which is not playable. (Their *Chop* is on the *Finessed Position*)
 * Main Strategy: Do NOT lock your teammate.
 * Reason: We don’t have enough clues to stall in Clue Starved.
@@ -50,20 +50,36 @@
   * Option 2: Perform a *Chop Overflow Finesse* and tell your teammate which card to play.
   * Option 3: Kill it.
 
-### New Conventions
-#### 1-for-1 Play Clue Chop Move
-* If only one card which is not on Chop is touched by a direct *Play Clue*, while the `future required efficiency is greater than 1.00`. It is not only a *Play Clue* on that card but also a *(Single) Chop Move*.
+### About 1-for-1 Clues
+
+#### 1-for-1 Play Clues
+* You are not allowed to give *1-for-1 Play Clues* if the future required efficiency is greater than *1.00*, including the Self Color Bluffs.
+* In these situation, you are allowed to give *1-for-1 Play Clues*:
+  * If the card is on *Chop*
+  * If the card is on *Finessed Chop*
+  * If the pace is equal or smaller than **1**
+
+#### 1-for-1 Save Clues
+* You are not allow to give *1-for-1 Save Clues* if the future required efficiency is greater than **1.25** OR greater than **1.00** AND the card is one-away from locked. In this situation, use the *Skipped Discard Chop Move*.
+
+#### 1-for-1 Play Clues Chop Move
+* If only one card which is not on *Chop* is touched by a direct *Play Clue*, while the future required efficiency is greater than **1.00**. It is not only a *Play Clue* on that card but also a *(Single) Chop Move*.
 * Note that if a clue touches a brand-new card and another card which has been chop moved, it is NOT a *1-for-1 Play Clue Chop Move*, since the chop moved cards are treated as untouched cards.
 * Note that it is illegal to do a *1-for-1 Self Color Bluff* if your teammate’s *Chop* is not on their *Finessed Position*. If someone does that, it is a signal as a *1-for-1 Play Clue Chop Move*.
 * Exception: If a *1-for-1 Play Clue* is given touching a critical 1, 2 or 3 which is one-away-from-chop, it doesn’t *Chop Move*.
 (Reason: It is because the team might lose it if they do a *Skipped Discard Chop Move*.)
 
+### More Conventions
+
 #### Oops Chop Move
 * If a player discards a critical card from Chop and it is not an emergency situation, it is a signal as an *Oops Chop Move* on the card which moves to *Chop*.
+
 #### Unnecessary Trash Push
 * *Trash Pushes* are always unnecessary, which means they should blind-play the card from their *Finessed Position* after blind-playing the pushed card. You can only perform this move if the `future required efficiency is greater than 1.00`.
+
 #### Unnecessary Trash Pull
 * Similar to *Unnecessary Trash Push*.
+
 #### Rank Identity Change
 * If a 5 is discarded, a critical 4 of that suit is treated as a 5.
 * Meanwhile, if one of the 3s, two 4s and a 5 of the same suit are all discarded. It is a 1-for-1 Play Clue Chop Move if someone gives a Play Clue touching a critical 3 of that suit which is one-away-from-chop.
