@@ -10,6 +10,7 @@
 * Do **not** *Chop Move* one-away 3s or 4s unless your teammate has at least two playable cards or at least two trash followed behind.
 * Do **not** *Fake Save* non-critical 3s or 4s.
 * Do **not** *Lock* your teammate’s hand. (See more strategies below)
+* **Seldom** use two-away 3s or two-or-more-away 4s as *Bluff* targets.
 * It is **illegal** to do a *Self Color Bluff* by touching a brand-new card, including a *Chop Move* card. Unless, it is globally known not to be playable.
 * *Tempo Clue Chop Moves* are always turned **on**.
 * *Double Tempo Clues* are turned **off**, which means it is also a *Tempo Clue Chop Move*.
