@@ -4,23 +4,23 @@
 
 ### General Strategies
 
-* Do NOT give *1-for-1 Play Clues*. (See more strategies below)
-* Do NOT give *1-for-1 Save Clues*. (See more strategies below)
-* Do NOT *Chop Move* two-away 3s or 4s.
-* Do NOT *Chop Move* one-away 3s or 4s unless your teammate has at least two playable cards or at least two trash followed behind.
-* Do NOT *Fake Save* non-critical 3s or 4s.
-* Do NOT *Lock* your teammate’s hand. (See more strategies below)
-* It is illegal to do a *Self Color Bluff* by touching a brand-new card, including a *Chop Move* card. Unless, it is globally known not to be playable.
-* *Tempo Clue Chop Movess* are always turned on.
-* *Double Tempo Clues* are turned off, which means it is also a *Tempo Clue Chop Move*.
-* *Occupied Play Clues* and *Loaded Play Clues* are turned off.
-* *Overloaded Play Clues* and *Double Loaded Play Clues* are turned on.
-* *Double Ignitions* are turned on. (Re-touching a trash, for example)
+* Do **not** give *1-for-1 Play Clues*. (See more strategies below)
+* Do **not** give *1-for-1 Save Clues*. (See more strategies below)
+* Do **not** *Chop Move* two-away 3s or 4s.
+* Do **not** *Chop Move* one-away 3s or 4s unless your teammate has at least two playable cards or at least two trash followed behind.
+* Do **not** *Fake Save* non-critical 3s or 4s.
+* Do **not** *Lock* your teammate’s hand. (See more strategies below)
+* It is **illegal** to do a *Self Color Bluff* by touching a brand-new card, including a *Chop Move* card. Unless, it is globally known not to be playable.
+* *Tempo Clue Chop Moves* are always turned **on**.
+* *Double Tempo Clues* are turned **off**, which means it is also a *Tempo Clue Chop Move*.
+* *Occupied Play Clues* and *Loaded Play Clues* are turned **off**.
+* *Overloaded Play Clues* and *Double Loaded Play Clues* are turned **on**.
+* *Double Ignitions* are turned **on**. (Re-touching a trash, for example)
 
 ### Lock Hand Strategies
 
 * Situation: If your teammate has four clued cards and they draw a useful card which is not playable. (Their *Chop* is on the *Finessed Position*)
-* Main Strategy: Do NOT lock your teammate.
+* Main Strategy: Do **not** lock your teammate.
 * Reason: We don’t have enough clues to stall in Clue Starved.
 * What should you do in this situation?
   * Option 0: Do the *Tempo Clue Chop Move*.
@@ -45,7 +45,7 @@
   * Option 1: Perform a *Double Chop Move* as a *Chop Overflow Finesse* and force them to blind-play.
   * Option 2: Perform a *Single Chop Move* and force them to discard a globally-known non-critical card.
   * Option 3: Kill it if it is not critical. (In an emergency situation, you shouldn’t mark *Elimination Notes* if your teammate kills your non-critical playable card.)
-* What can you do if your teammate has a critical card on their *Finessed Chop* but they have some other playable card in hand while you don’t have a clue to do the Tempo Clue Chop Move?
+* What can you do if your teammate has a critical card on their *Finessed Chop* but they have some other (unknown) playable cards in hand while you don’t have a clue to do the *Tempo Clue Chop Move*?
   * Option 1: Perform a *Single Chop Move* and force your teammate to discard.
   * Option 2: Perform a *Chop Overflow Finesse* and tell your teammate which card to play.
   * Option 3: Kill it.
@@ -53,15 +53,15 @@
 ### 1-for-1 Clue Strategies
 
 #### 1-for-1 Play Clues
-* You are not allowed to give *1-for-1 Play Clues* if the future required efficiency is greater than **1.00**, including the *Self Color Bluffs*.
+* You are not allowed to give *1-for-1 Play Clues* if the future required efficiency is greater than **1.00**, including the *1-for-1 Self Color Bluffs*.
 * However, in these situation you are allowed to give *1-for-1 Play Clues*:
   * If the card is on *Chop*
   * If the card is on *Finessed Chop*
   * If the pace is less than or equal to **1**
 
 #### 1-for-1 Save Clues
-* You are not allow to give *1-for-1 Save Clues* if the future required efficiency is greater than **1.25** OR greater than **1.00** AND the card is one-away from locked.
-* In this situation, use the *Skipped Discard Chop Move*.
+* You are not allow to give *1-for-1 Save Clues* if the future required efficiency is greater than **1.25** OR greater than **1.00** AND your teammate is one-away from locked.
+* In this situation, use either *Tempo Clue Chop Moves* or *Skipped Discard Chop Moves*.
 
 #### 1-for-1 Play Clues Chop Move
 * If only **one** card which is not on *Chop* is touched by a direct *Play Clue*, while the future required efficiency is greater than **1.00**. It is not only a *Play Clue* on that card but also a *Chop Move*.
